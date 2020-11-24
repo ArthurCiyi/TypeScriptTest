@@ -7,6 +7,6 @@ for(let i =0; i<sum.length ;i++){
     }
 }
 
-
+console.log();
 
 console.log(max);
