@@ -6,4 +6,7 @@ for(let i =0; i<sum.length ;i++){
         max[max.length] = sum[i]
     }
 }
+
+
+
 console.log(max);
